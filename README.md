@@ -1,16 +1,15 @@
 # whatsapp_ui_clone
+## Technology Stack:
+Flutter, Dart.
 
-A new Flutter project.
+## Key Features: 
+Chats, Status Updates, Call Logs, Interactive Elements,
+Responsive and Native-like Experience
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Instalation
+Clone the repositiry and run following commands:
+```bash
+  flutter pub get
+  flutter run
+```
